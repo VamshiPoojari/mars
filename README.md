@@ -63,8 +63,7 @@ HOSTED ON VERCELLLLLLLL: https://collaborative-whiteboard-ten.vercel.app/
 
 1. **Clone the repository**
 git clone https://github.com/VamshiPoojari/mars.git
-cd collaborative-whiteboard
-
+cd mars
 text
 
 2. **Install backend dependencies**
@@ -114,7 +113,7 @@ Application will open on `http://localhost:3000`
 - Share the link with collaborators
 - They can join directly via the shared link
 
-## 🎯 Project Structure
+##  Project Structure
 
 collaborative-whiteboard/
 ├── client/ # React frontend application
@@ -135,7 +134,7 @@ collaborative-whiteboard/
 
 text
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 ### REST API
 - `POST /api/rooms` - Create a new collaboration room
@@ -148,13 +147,13 @@ text
 - `undo` / `redo` - Synchronize undo/redo operations
 - `save-canvas-state` - Persist canvas data for room
 
-## 🌐 Demo
+##  Demo
 
 **Live Demo:** [Deploy your application and add the live demo link here]
 
 **Repository:** https://github.com/VamshiPoojari/mars
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -162,17 +161,17 @@ text
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built as part of a web development learning project
 - Inspired by collaborative tools like Miro and Figma
 - Thanks to the open-source community for amazing libraries and tools
 
-## 📧 Contact
+##  Contact
 
 **Developer:** Vamshi Poojari  
 **Repository:** https://github.com/VamshiPoojari/mars
