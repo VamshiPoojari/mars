@@ -1,8 +1,8 @@
 # Collaborative Whiteboard
 
 A real-time collaborative whiteboard application that allows multiple users to draw, write, and interact simultaneously on a shared canvas.
-
-## 🌟 Features
+HOSTED ON VERCELLLLLLLL: https://collaborative-whiteboard-ten.vercel.app/
+##  Features
 
 ### Core Drawing Tools
 - **Pen Tool**: Free-hand drawing with customizable colors and brush sizes
@@ -33,7 +33,7 @@ A real-time collaborative whiteboard application that allows multiple users to d
 - **Shareable Links**: Copy and share direct room access links
 - **Room Persistence**: Canvas state is maintained for the room session
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React.js** with TypeScript for type-safe component development
@@ -52,7 +52,7 @@ A real-time collaborative whiteboard application that allows multiple users to d
 - **npm** for package management and build scripts
 - **nodemon** for automatic server restarts during development
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Node.js (v14 or higher)
