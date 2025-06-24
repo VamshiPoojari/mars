@@ -62,7 +62,7 @@ HOSTED ON VERCELLLLLLLL: https://collaborative-whiteboard-ten.vercel.app/
 ### Installation
 
 1. **Clone the repository**
-git clone https://github.com/VamshiPoojari/collaborative-whiteboard.git
+git clone https://github.com/VamshiPoojari/mars.git
 cd collaborative-whiteboard
 
 text
@@ -152,7 +152,7 @@ text
 
 **Live Demo:** [Deploy your application and add the live demo link here]
 
-**Repository:** https://github.com/VamshiPoojari/collaborative-whiteboard
+**Repository:** https://github.com/VamshiPoojari/mars
 
 ## 🤝 Contributing
 
@@ -175,4 +175,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 **Developer:** Vamshi Poojari  
-**Repository:** https://github.com/VamshiPoojari/collaborative-whiteboard
+**Repository:** https://github.com/VamshiPoojari/mars
